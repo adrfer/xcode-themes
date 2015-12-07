@@ -1,5 +1,5 @@
 # Xcode Themes
-Just a few quaint themes for Xcode.
+Minimally ok-ish themes for Xcode.
 
 Themes tested in `Xcode 7.1.1`.
 
