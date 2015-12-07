@@ -121,7 +121,7 @@
 		<key>xcode.syntax.string</key>
 		<string>0.77 0.102 0.086 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.153 0.075 1 1</string>
+		<string>0.359 0.149 0.601 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
