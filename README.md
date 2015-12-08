@@ -10,7 +10,7 @@ Themes tested in `Xcode 7.1.1`.
 To install, download the theme and then:
 
 1. Copy it to **~/Library/Developer/Xcode/UserData/FontAndColorThemes**
-2. Open/restart **Xcode** and go to **Preferences...** (<kbd>⌘</kbd><kbd>,</kbd>)
+2. Open/restart **Xcode** and go to **Preferences...** ( <kbd>⌘</kbd><kbd>,</kbd> )
 3. Click at the **Fonts & Colors** tab
 4. Select the imported theme on the list
 
@@ -18,7 +18,7 @@ To install, download the theme and then:
 
 To remove the imported theme:
 
-1. Open **Xcode** and go to **Preferences...** (<kbd>⌘</kbd><kbd>,</kbd>)
+1. Open **Xcode** and go to **Preferences...** ( <kbd>⌘</kbd><kbd>,</kbd> )
 2. Click at the **Fonts & Colors** tab
 3. Select the custom theme on the list
 4. Click at the **-** button on the bottom
