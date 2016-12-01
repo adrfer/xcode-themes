@@ -1,7 +1,7 @@
 # Xcode Themes
 Minimally ok-ish themes for Xcode.
 
-Themes tested in `Xcode 7.1.1`.
+Themes tested on `Xcode 7.1.1`.
 
 ![screenshot](https://raw.githubusercontent.com/adrfer/xcode-themes/master/Screenshot.png)
 
