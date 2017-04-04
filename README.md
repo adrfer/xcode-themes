@@ -25,7 +25,7 @@ To remove custom themes:
 3. Select the custom theme on the list
 4. Click at the **-** button on the bottom
 
---
+##
 Hey, looking for Swift snippets? Check out [xcode-snippets](https://github.com/adrfer/xcode-snippets).
 
 Interested in key bindings? Take a look at [xcode-keybindings](https://github.com/adrfer/xcode-keybindings).
